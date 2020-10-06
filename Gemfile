@@ -5,7 +5,7 @@ gem 'sunspot_rails'
 gem 'will_paginate'
 gem 'impressionist'
 #사진첨부
-gem 'paperclip', "~>4.1"
+gem 'paperclip', "~>5.2"
 #지도
 gem 'gmaps4rails'
 gem 'pry-rails'
